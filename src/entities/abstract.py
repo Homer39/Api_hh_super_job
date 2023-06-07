@@ -46,3 +46,26 @@ class Vacancies(ABC):
     @abstractmethod
     def __lt__(self, other):
         pass
+
+
+class JSON(ABC):
+
+    @abstractmethod
+    def __init__(self):
+        pass
+
+    @abstractmethod
+    def insert(self, filepath):
+        pass
+
+    @abstractmethod
+    def select(self, query):
+        pass
+
+    @abstractmethod
+    def delete(self, query):
+        pass
+
+    @abstractmethod
+    def clear_data(self):
+        pass
