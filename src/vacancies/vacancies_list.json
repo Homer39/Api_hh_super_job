@@ -1,0 +1,152 @@
+[
+    {
+        "id": "79148815",
+        "title": "Системный администратор / HelpDesk",
+        "url": "https://hh.ru/vacancy/79148815",
+        "salary_from": 2000,
+        "salary_to": 0,
+        "currency": "BYR",
+        "employer": "Единые Решения",
+        "api": "hh"
+    },
+    {
+        "id": "80827238",
+        "title": "Инженер технической поддержки/системный администратор",
+        "url": "https://hh.ru/vacancy/80827238",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "currency": "RUR",
+        "employer": "NeoCommunications",
+        "api": "hh"
+    },
+    {
+        "id": "80614862",
+        "title": "Middle Data Scientist (Python)",
+        "url": "https://hh.ru/vacancy/80614862",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "WaveAccess",
+        "api": "hh"
+    },
+    {
+        "id": "80669106",
+        "title": "DSP software engineer (Armenia)",
+        "url": "https://hh.ru/vacancy/80669106",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "maro.am",
+        "api": "hh"
+    },
+    {
+        "id": "80859405",
+        "title": "Администратор Linux",
+        "url": "https://hh.ru/vacancy/80859405",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "Холдинг «Аэропорты Регионов»",
+        "api": "hh"
+    },
+    {
+        "id": "80669102",
+        "title": "DSP software engineer (Armenia)",
+        "url": "https://hh.ru/vacancy/80669102",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "maro.am",
+        "api": "hh"
+    },
+    {
+        "id": "80669104",
+        "title": "DSP software engineer (Armenia)",
+        "url": "https://hh.ru/vacancy/80669104",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "maro.am",
+        "api": "hh"
+    },
+    {
+        "id": "80669105",
+        "title": "DSP software engineer (Armenia)",
+        "url": "https://hh.ru/vacancy/80669105",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "maro.am",
+        "api": "hh"
+    },
+    {
+        "id": "80669103",
+        "title": "DSP software engineer (Armenia)",
+        "url": "https://hh.ru/vacancy/80669103",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "maro.am",
+        "api": "hh"
+    },
+    {
+        "id": "80652805",
+        "title": "Архитектор Сommon services (VK Cloud)",
+        "url": "https://hh.ru/vacancy/80652805",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": null,
+        "employer": "VK",
+        "api": "hh"
+    },
+    {
+        "id": 39820071,
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820071.html",
+        "salary_from": 15000,
+        "salary_to": 0,
+        "currency": "rub",
+        "employer": "Яндекс",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46427089,
+        "title": "Инженер-электронщик (робототехника)",
+        "url": "https://www.superjob.ru/vakansii/inzhener-elektronschik-46427089.html",
+        "salary_from": 0,
+        "salary_to": 120000,
+        "currency": "rub",
+        "employer": "Friendwork",
+        "api": "SuperJob"
+    },
+    {
+        "id": 43147987,
+        "title": "Инженер Программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-43147987.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": "rub",
+        "employer": "ФГБУ \"Научно-исследовательский центр космической гидрометеорологии \"Планета\"",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46296647,
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-46296647.html",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "currency": "rub",
+        "employer": "Школа №2116",
+        "api": "SuperJob"
+    },
+    {
+        "id": 46430975,
+        "title": "Эксперт (CJE)",
+        "url": "https://www.superjob.ru/vakansii/ekspert-46430975.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "currency": "rub",
+        "employer": "Банк ВТБ (ПАО)",
+        "api": "SuperJob"
+    }
+]
